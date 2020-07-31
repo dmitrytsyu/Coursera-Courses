@@ -3,9 +3,9 @@ My files of courses in Coursera
 
 # List of Courses (with links)
 
-1. <a href = 'https://www.coursera.org/specializations/deep-learning'> Deep Learning Specialization <a href = ''>
-    * Neural Networks and Deep Learning [git link]() [info](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning)
-    * Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization [git link]() [info](https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning)
+1. [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
+    * Neural Networks and Deep Learning [git]() [notion]() [info](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning)
+    * Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization [git]() [notion]() [info](https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning)
 2. Yandex
 
 TODO:
