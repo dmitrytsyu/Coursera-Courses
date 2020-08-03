@@ -1,7 +1,7 @@
 # Courses of Coursera
 My files of courses in Coursera
 
-# List of Courses (with links)
+## List of Courses (with links)
 
 
 1. Майнор ["Интеллектуальный анализ данных"](http://wiki.cs.hse.ru/Заглавная_страница)
@@ -32,17 +32,25 @@ My files of courses in Coursera
             2. Introduction to time series with COVID-19. ARIMAX-models
             3. Jigsaw competition in Kaggle. Bi-Directional RNN, BERT, RoBERTa
         </details>
+        
 2. [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
     * Neural Networks and Deep Learning | [git]() | [notion]() | [info](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning)
     * Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization | [git]() | [notion]() | [info](https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning)
     * Structuring Machine Learning Projects | [git]() | [notion]() | [info](https://www.coursera.org/learn/machine-learning-projects?specialization=deep-learning)
-    
+
 3. Yandex
+4. [Программирование на Python](https://www.coursera.org/specializations/programming-in-python) от Mail.ru
+    * Погружение в Python | [git]() | [info](https://www.coursera.org/learn/diving-in-python)
+
+
+
+
 
 TODO:
 - [ ] Add new courses according to courses' schedule
 - [ ] Make tables with logo's companies/universities the courses which I passed
 - [ ] Add notes from notion
 - [ ] Formatings strings (@mentions, #refs, [Useful](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf), **formatting**, and <del>tags</del>)
+- [ ] Add links to certificates
 
 
